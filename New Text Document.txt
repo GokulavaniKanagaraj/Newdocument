@@ -4,3 +4,4 @@
     <method name="staff/Updateteacher"/>
     <method name="staff/DeleteTeacher"/>
     </methods>
+    <method>
