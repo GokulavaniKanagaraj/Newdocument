@@ -1,0 +1,6 @@
+ <methods>
+    <method name="staff/viewteacher"/>
+    <method name="staff/Insertteacher"/>
+    <method name="staff/Updateteacher"/>
+    <method name="staff/DeleteTeacher"/>
+    </methods>
