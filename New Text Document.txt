@@ -5,3 +5,4 @@
     <method name="staff/DeleteTeacher"/>
     </methods>
 hello
+hi
